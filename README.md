@@ -27,7 +27,7 @@ Finally, I built a third classifier, adding in calculable features such as post 
 # Results:
 
 ### Three Part Hypothesis Test yielded the following results:
-<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%201%20-%20Hypothesis%20Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
+<a href="https://github.com/lpilossoph/Mental-Health-Risk-Assessor/blob/master/Part%201%20-%20Hypothesis%20Testing.ipynb">Part 1 - Hypothesis Tesing - Link to Notebook</a>
 
 1. There is a statistically significant increase in absolutist words used in mental health related forums, compared with hobby and leisure forums.
 
@@ -38,7 +38,7 @@ Finally, I built a third classifier, adding in calculable features such as post 
 ![Suicide Forum Wordcloud](https://i.postimg.cc/zBBLZHWH/download.png)
 
 ### Mental Health Risk / Non-Mental Health Risk reddit post classifier yielded the following results:
-<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%202%20-%20Mental%20Health%20Risk%20Classifier.ipynb">Part 2 - Mental Health Risk Classifier - Link to Notebook</a>
+<a href="https://github.com/lpilossoph/Mental-Health-Risk-Assessor/blob/master/Part%202%20-%20Mental%20Health%20Risk%20Classifier.ipynb">Part 2 - Mental Health Risk Classifier - Link to Notebook</a>
 
 Multinomial Naive Bayes Results
 * Accuracy:  0.77
@@ -50,7 +50,7 @@ Multinomial Naive Bayes Results
 
 
 ### Suicidal Ideation Risk/ Non-Suicidal Ideation Risk reddit post classifier yielded the following results:
-<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%203%20-%20Suicide%20Risk%20Classifier.ipynb">Part 3 - Suicidal Ideation Risk Classifier - Link to Notebook</a>
+<a href="https://github.com/lpilossoph/Mental-Health-Risk-Assessor/blob/master/Part%203%20-%20Suicide%20Risk%20Classifier.ipynb">Part 3 - Suicidal Ideation Risk Classifier - Link to Notebook</a>
 
 Multinomial Naive Bayes Results
 * Accuracy:  0.66
@@ -77,7 +77,7 @@ Multinomial Naive Bayes Results
 * Sentiment 
 * Subjectivity
 
-<a href="https://github.com/lpilossoph/Capstone-Project/blob/master/Part%204%20-%20Feature%20Extraction%20.ipynb">Part 4 - Feature Extraction and Interpretation - Link to Notebook</a>
+<a href="https://github.com/lpilossoph/Mental-Health-Risk-Assessor/blob/master/Part%204%20-%20Classification%20with%20Feature%20Extraction.ipynb">Part 4 - Feature Extraction and Interpretation - Link to Notebook</a>
 
 
 # Use Cases:
@@ -95,5 +95,3 @@ Unfortunately, the lack of access to reliable and accurate data in this arena is
 
 Future work would involve similar classification building and deep learning using more accurate and reliably labeled data. If this project is any indication of how well a trained classifier and deep neural network can perform, it would be a major breakthrough to be able to work with actual clinical data!
 
-### Blog Post Link
-http://lpilossoph.github.io/reddit_scraping_with_praw
