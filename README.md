@@ -85,6 +85,7 @@ Multinomial Naive Bayes Results
 The ability to classify specific mental health issues using text has many use cases for clinicians and those who love anyone suffering with mental illness. We all communicate through text on a daily basis, whether it be on our phones, in forums, or via email. If our language could assist in a clinical diagnosis of depression or suicidal ideation, it could potentially be life-saving. Social media participants could be screened for at risk users leading to *meaningful* targeted ads that could potentially help them. In the healthcare setting, a Clinical Dashboard similar to the prototype <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">created here</a> could be useful for providers in order to track how treatment with therapy and/or medications is affecting patient progress overtime. 
 
 ![grab-landing-page](https://s3.gifyu.com/images/screen.gif)
+[![screen.gif](https://s4.gifyu.com/images/screen.gif)](https://gifyu.com/image/Z2fw)
 <a href="https://suicidal-ideation-tracker-tool.herokuapp.com/">
    
    ### Link to Dashboard</a>
